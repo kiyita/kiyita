@@ -1,2 +1,2 @@
-Soudaine envie de me remettre à fond à coder et d'apprendre tous les langages  
-POV : Télécom fini c'est la fiesta !
+back to my coding era (envie de tout apprendre)
+born to faire des projets sur la Formule 1 but forced to finir le projet d'algo1 ;(
