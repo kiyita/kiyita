@@ -1,4 +1,4 @@
-Qu'est ce qu'on toruve ici :bowtie: ?
+Qu'est ce qu'on trouve ici :bowtie: ?
 * Des projets récents, finis ou en cours :camel:
 * Des projets réalisés dans le cadre de mes cours à l'ENSSAT :beers:
 * Un site web :hushed:
