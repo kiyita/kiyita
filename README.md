@@ -12,8 +12,8 @@ Git • Linux • VSCode • IntelliJ
 ## 📊 Stats GitHub
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiyita&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyita&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
