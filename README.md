@@ -1,8 +1,20 @@
-Qu'est ce qu'on trouve ici :bowtie: ?
-* Des projets récents, finis ou en cours :camel:
-* Des projets réalisés dans le cadre de mes cours à l'ENSSAT :beers:
-* Un site web :hushed:
-* De vieux projets réalisés durant mon apprentissage de la programmation :walking:
-* Des tests :shell:
+# Moi c'est *Lucie*  
 
--> back to my coding era (envie de tout apprendre)
+## 🛠️ Stack & Outils
+**Langages :**  
+C/C++ • Python • Java • OCaml • HTML/CSS • Javascript • SQL
+
+**Outils :**  
+Git • Linux • VSCode • IntelliJ
+
+---
+
+## 📊 Stats GitHub
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true)
+  
+</div>
+
+Merci d’être passé(e) ! ⭐
